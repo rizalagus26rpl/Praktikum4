@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(135deg, #325adf 0%, #e7530f 100%);
+}
+
+.box{
+    width: 450px;
+    height: 295px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+    }
